@@ -1,0 +1,14 @@
+body{
+	background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fsearch%2Fred-background-vignette&psig=AOvVaw2TlIAdyp3fca1IlbVtpjs6&ust=1727916293366000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJj6tPi77ogDFQAAAAAdAAAAABAE');
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-attachment: fixed;
+}
+
+
+h1{
+
+	border-style: outset;
+	border-width: 5px;
+	border-color: #c983a6;
+}
